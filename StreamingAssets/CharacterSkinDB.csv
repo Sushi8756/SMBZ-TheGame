@@ -1,0 +1,25 @@
+INTERNAL_CHARACTER_NAME,Name of Skin,Relative Path to Texture
+Mario,DEFAULT,
+FireMario,DEFAULT,
+Sonic,DEFAULT,
+KoopaBros,DEFAULT,
+Shadow,DEFAULT,
+Yoshi,DEFAULT,
+MechaSonic,DEFAULT,
+AxemRangersX,DEFAULT,
+Luigi,DEFAULT,
+CapedLuigi,DEFAULT,
+Basilisx,DEFAULT,
+Goomba,DEFAULT,
+Mario,Halloween,MarioHalloween.png
+FireMario,Halloween,FireMarioHalloween.png
+Sonic,Halloween,SonicHalloween.png
+KoopaBros,Halloween,KoopaBrosHalloween.png
+Shadow,Halloween,ShadowHalloween.png
+AxemRangersX,Halloween,AxemRangersXHalloween.png
+MechaSonic,Halloween,MechaSonicHalloween.png
+Yoshi,Halloween,YoshiHalloween.png
+Luigi,Halloween,LuigiHalloween.png
+CapedLuigi,Halloween,LuigiHalloween.png
+Basilisx,Halloween,BasilisxHalloween.png
+Goomba,Halloween,GoombaHalloween.png
